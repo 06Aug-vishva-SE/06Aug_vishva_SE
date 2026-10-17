@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    FILE *fp;
+
+    fp = fopen("playlist.txt", "a");
+
+    fprintf(fp, "4. Kesariya\n");
+    fprintf(fp, "5. Despacito\n");
+
+    fclose(fp);
+
+    printf("Two songs added successfully.");
+
+    return 0;
+}
