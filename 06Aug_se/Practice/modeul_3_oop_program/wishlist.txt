@@ -1,0 +1,6 @@
+mobile
+20000
+tv
+40000
+spicer
+400

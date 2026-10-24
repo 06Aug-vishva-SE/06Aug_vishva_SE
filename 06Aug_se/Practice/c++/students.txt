@@ -1,0 +1,10 @@
+Student ID: 202
+Student Name: vish
+Mobile Number: 98907892
+City: rajko
+--------------------------
+Student ID: 2
+Student Name: bdgui
+Mobile Number: 987657722
+City: surat
+--------------------------
