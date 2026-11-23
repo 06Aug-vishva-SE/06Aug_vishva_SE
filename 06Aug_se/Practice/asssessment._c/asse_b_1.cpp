@@ -14,6 +14,7 @@ int main()
         {
             printf("Invalid Percentage!");
         }
+        else if(percentage >= 90)
         {
             printf("Grade: A - Excellent work!");
         }
